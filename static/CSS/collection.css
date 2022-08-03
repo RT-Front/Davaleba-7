@@ -1,0 +1,340 @@
+.palette_wrapper{
+    width: 100%;
+    margin-top: 40px;
+    font-size: 40px;
+    font-family: "red_rose_bold";
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.palette_wrapper:hover{
+    opacity: 0.5;
+}
+
+h1{
+    position: absolute;
+}
+
+.collor_palette{
+    width: 100%;
+}
+
+
+
+.picker_cards{
+    width: 100%;
+    display: grid;
+    justify-content: space-around;
+    margin-top: 114px;
+}
+
+
+.picker_card_1, .picker_card_2, .picker_card_3, .picker_card_4, .picker_card_5, .picker_card_6{
+    display: grid;
+    width: 346px;
+    height: 314px;
+    margin-bottom: 87px;
+}
+
+.picker_card_1{
+    grid-area: 1/1/2/2;
+}
+.picker_card_2{
+    grid-area: 1/2/2/3;
+}
+.picker_card_3{
+    grid-area: 1/3/2/4;
+}
+.picker_card_4{
+    grid-area: 2/1/3/2;
+}
+.picker_card_5{
+    grid-area: 2/2/3/3;
+}
+.picker_card_6{
+    grid-area: 2/3/3/4;
+}
+
+
+.pick_collor{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.pick_collor div{
+    height: 58px;
+    width: 58px;
+    border: none;
+    border-radius: 50px;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+.collor1{
+    background-color: #D12529;
+}
+.collor2{
+    background-color: #394430;
+}
+.collor3{
+    background-color: #FC739F;
+}
+.collor4{
+    background-color: #FA9F4A;
+}
+.collor5{
+    background-color: #A13583;
+}
+.collor6{
+    background-color: #FF8601;
+}
+.collor7{
+    background-color: #F2EAE7;
+}
+.collor8{
+    background-color: #430001;
+}
+.collor9{
+    background-color: #15100F;
+}
+.collor10{
+    background-color: #E59222;
+}
+.collor11{
+    background-color: #7F73B5;
+}
+.collor12{
+    background-color: #E2DFE6;
+}
+.collor13{
+    background-color: #534090;
+}
+.collor14{
+    background-color: #0E44A7;
+}
+.collor15{
+    background-color: #050408;
+}
+.collor16{
+    background-color: #F6F6F8;
+}
+.collor17{
+    background-color: #FDCF05;
+}
+.collor18{
+    background-color: #49403E;
+}
+.collor19{
+    background-color: #E6D9C9;
+}
+.collor20{
+    background-color: #F9E822;
+}
+.collor21{
+    background-color: #007CC2;
+}
+.collor22{
+    background-color: #01A0D9;
+}
+.collor23{
+    background-color: #DE9E00;
+}
+.collor24{
+    background-color: #CDDD97;
+}
+.collor25{
+    background-color: #DFD046;
+}
+.collor26{
+    background-color: #F5BCCF;
+}
+.collor27{
+    background-color: #E1D953;
+}
+.collor28{
+    background-color: #D09231;
+}
+.collor29{
+    background-color: #563E43;
+}
+.collor30{
+    background-color: #A9C12A;
+}
+
+
+
+
+
+
+
+.collor1:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor3:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor4:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor5:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor6:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor7:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor8:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor9:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor10:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor11:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor12:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor13:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor14:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor15:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor16:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor17:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor18:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor19:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor20:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor21:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor22:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor23:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor24:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor25:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor26:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor27:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor28:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor29:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.collor30:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+
+
+.selectable_colors p{
+    margin-top: 7px;
+    font-size: 10px;
+    font-family: "red_hat_semibold";
+    color: #5A5A5A;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: "red_hat_regular";
+    src: url(../fonts/RedHatDisplay-Regular.ttf);
+}
+@font-face {
+    font-family: "red_hat_semibold";
+    src: url(../fonts/RedHatDisplay-SemiBold.ttf);
+}
+@font-face {
+    font-family: "red_rose_regular";
+    src: url(../fonts/RedRose-Regular.ttf);
+}
+@font-face {
+    font-family: "red_rose_bold";
+    src: url(../fonts/RedRose-Bold.ttf);
+}
+@font-face {
+    font-family: "rufina_bold";
+    src: url(../fonts/Rufina-Bold.ttf);
+}
